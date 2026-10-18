@@ -1,0 +1,5 @@
+1. ls - Dosya ve dizinleri listeler.
+2. cd - Dizinler arasinda gecis yapar.
+3. pwd - Aktif calisma dizinini gosterir.
+4. mkdir - Yeni bir klasor olusturur.
+5. rm - Dosya veya klasor siler.
