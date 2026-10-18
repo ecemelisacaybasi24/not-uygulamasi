@@ -3,3 +3,8 @@
 3. pwd - Aktif calisma dizinini gosterir.
 4. mkdir - Yeni bir klasor olusturur.
 5. rm - Dosya veya klasor siler.
+6. git init - Yeni bir yerel repo baslatir.
+7. git status - Calisma dizini ve staging alanini gosterir.
+8. git add - Dosyalari staging alanina ekler.
+9. git commit - Degisiklikleri depoya kaydeder.
+10. git log - Commit gecmisini listeler.
